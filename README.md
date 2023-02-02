@@ -1,3 +1,2 @@
 # Mnist-model
-
-Simple Convolution Neural Network classifier for the Mnist-Dataset
+Simple Convolutional Neural Network classifier for the Mnist dataset using tensorflow
